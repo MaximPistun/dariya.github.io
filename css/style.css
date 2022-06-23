@@ -158,7 +158,7 @@ a,button, .burger{
     .burger_active ~ .header__nav{
         top: 0;
         left: 0;
-        height: 40vh;
+        height: 60vh;
     }
     
     .header__list {
